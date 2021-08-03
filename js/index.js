@@ -38,16 +38,6 @@ const hide = (e)=>{
 }
 //Event 2
 headerImg.addEventListener('dblclick', hide);
-// headerImg.addEventListener('dblclick', ()=>{    
-//     headerImg.style.width = '50%';
-//     headerImg.style.height = '50%';
-//     if(headerImg.style.width === '50%'){
-//         headerImg.addEventListener('dblclick', ()=>{    
-//             headerImg.style.width = 'auto';
-//             headerImg.style.height = 'auto';
-//         });
-//     }
-// });
 //
 
 const zoom = (e)=>{
